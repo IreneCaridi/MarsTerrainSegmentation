@@ -1,10 +1,10 @@
-●	Preprocessing_alien_detection_mask.ipynb: outliers detection through masks
-●	Preprocessing_alien_detection_CNN.ipynb: outliers detection with a CNN
-●	Unbalancing_treatment_attempt.ipynb: attempt to balance the dataset without aliens
-●	Models:
-    ○	1_model_unet_base.ipynb: base unet model
-    ○	2_model_unet_attention.ipynb: unet model with attention
-    ○	3_model_unet_bottleneck_modified.ipynb: unet with attention and modified bottleneck (squeeze and excite block and pyramid pooling block)
-    ○	Best_model.ipynb: final model
-    ○	double_unet_attempt.ipynb: two unet linked thought output layer
-● Report
+-	Preprocessing_alien_detection_mask.ipynb: outliers detection through masks
+-	Preprocessing_alien_detection_CNN.ipynb: outliers detection with a CNN
+-	Unbalancing_treatment_attempt.ipynb: attempt to balance the dataset without aliens
+-	Models:
+    -	1_model_unet_base.ipynb: base unet model
+    -	2_model_unet_attention.ipynb: unet model with attention
+    -	3_model_unet_bottleneck_modified.ipynb: unet with attention and modified bottleneck (squeeze and excite block and pyramid pooling block)
+    -	Best_model.ipynb: final model
+    -	double_unet_attempt.ipynb: two unet linked thought output layer
+- Report
